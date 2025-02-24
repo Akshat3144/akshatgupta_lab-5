@@ -1,7 +1,11 @@
 # MLPR LAB 5 - Distance Classification
 
 ## Overview
-This Lab implements distance-based classification using K-Means clustering on face detection features (hue and saturation) from images. It follows best practices for version control, automation, containerization, and experiment tracking.
+This project implements distance-based classification using K-Means clustering on face detection features (hue and saturation) extracted from facial images (`Plaksha_Faculty.jpg` and `Dr_Shashi_Tharoor.jpg`). It adheres to best practices for version control, automation, containerization, and experiment tracking, as outlined in the assignment requirements. The project includes three key Jupyter Notebook files:
+
+- `akshatgupta_lab-5.ipynb`: The completed notebook with all code implementations for face detection, feature extraction, K-Means clustering, and visualizations.
+- `kaggle_notebook.ipynb`: The notebook downloaded from Kaggle after integrating Weights & Biases (Wandb) for experiment tracking, including logged metrics (e.g., Silhouette Score, Inertia) and visualizations (e.g., clustering plots, histograms).
+- `distance_classification.ipynb`: The notebook optimized for GitHub Actions automation, built on top of `kaggle_notebook.ipynb`, and configured to run seamlessly while logging results to Wandb.
 
 -------------------------------------
 
@@ -10,6 +14,7 @@ This Lab implements distance-based classification using K-Means clustering on fa
 ![1740391393867](image/README/1740391393867.png)
 ![1740391402235](image/README/1740391402235.png)
 ![1740391410953](image/README/1740391410953.png)
+![1740395310384](image/README/1740395310384.png)
 
 -------------------------------------
 

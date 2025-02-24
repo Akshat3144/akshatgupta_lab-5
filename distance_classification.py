@@ -1,7 +1,7 @@
 import cv2
 
 # Load images
-faculty_img = cv2.imread('plaksha_Faculty.jpg')
+faculty_img = cv2.imread('Plaksha_Faculty.jpg')
 template_img = cv2.imread('Dr_Shashi_Tharoor.jpg')
 
 if faculty_img is None or template_img is None:
