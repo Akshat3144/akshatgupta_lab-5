@@ -14,7 +14,6 @@ This project implements distance-based classification using K-Means clustering o
 ![1740391393867](image/README/1740391393867.png)
 ![1740391402235](image/README/1740391402235.png)
 ![1740391410953](image/README/1740391410953.png)
-![1740395310384](image/README/1740395310384.png)
 
 -------------------------------------
 
@@ -48,3 +47,4 @@ In KNN, high bias occurs when K is large, leading to oversimplification and unde
 ![1740391636830](image/README/1740391636830.png)
 ![1740391651811](image/README/1740391651811.png)
 ![1740391680246](image/README/1740391680246.png)
+![1740395310384](image/README/1740395310384.png)
