@@ -1,6 +1,7 @@
 venv/
-*.jpg
-*.png
+wandb/
+# *.jpg
+# *.png
 logs/
 __pycache__/
 *.pyc
